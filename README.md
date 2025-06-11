@@ -28,7 +28,7 @@ Copie y pegue estos comandos para instalar este repositorio.
 ```bash
 sudo git clone https://github.com/hscript06/hwifipt.git
 cd hwifipt
-pip install .
+sudo pip install .
 ```
 depues de instalarlo solo tendras que ejecutar el siguiente comando
 ```bash
@@ -64,7 +64,7 @@ Copy and paste these commands to install this repository.
 ```bash
 sudo git clone https://github.com/hscript06/hwifipt.git
 cd hwifipt
-pip install .
+sudo pip install .
 ```
 After installing it, you only need to run this command
 ```bash
