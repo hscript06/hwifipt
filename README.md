@@ -15,7 +15,7 @@ ________________________________________________________________________________
 🛠️ Requisitos
 Python 3
 
-linux
+Linux
 
 Tarjeta WiFi compatible con modo monitor
 __________________________________________________________________________________________________________________________
@@ -47,14 +47,17 @@ Capturing handshakes
 Performing deauthentication attacks
 
 Starting brute force attacks using dictionaries like rockyou.txt
-
+__________________________________________________________________________________________________________________________
 🛠️ Requirements
 
 Python 3
 
-WiFi card compatible with monitor mode
+Linux
 
+WiFi card compatible with monitor mode
+__________________________________________________________________________________________________________________________
 ⚠️It's recommended to always run it inside a dedicated folder, since the script adds and deletes files, and with very bad luck, it could accidentally delete files in the folder where you execute it.⚠️
+__________________________________________________________________________________________________________________________
 
 🧪 Installation
 Copy and paste these commands to install this repository.
@@ -67,3 +70,4 @@ After installing it, you only need to run this command
 ```bash
 hwifipt
 ```
+__________________________________________________________________________________________________________________________
