@@ -1,4 +1,4 @@
- __________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 🔓 WiFi Hacking Script (Aircrack-ng Based)
 Este proyecto es un script automatizado de auditoría WiFi, diseñado para facilitar tareas como:
 
@@ -11,14 +11,17 @@ Capturar handshakes
 Realizar ataques de desautenticación
 
 Iniciar fuerza bruta usando diccionarios como rockyou.txt
-
+__________________________________________________________________________________________________________________________
 🛠️ Requisitos
 Python 3
 
-Tarjeta WiFi compatible con modo monitor
+linux
 
+Tarjeta WiFi compatible con modo monitor
+__________________________________________________________________________________________________________________________
 
 ⚠️se recomienda ejecutarlo siempre dentro de una carpeta dedicada, ya que el script agrega y elimina archivos, y con muy mala suerte, podría eliminar accidentalmente archivos en la carpeta donde lo ejecuta.⚠️
+__________________________________________________________________________________________________________________________
 
 🧪 Instalación
 Copie y pegue estos comandos para instalar este repositorio.
@@ -31,7 +34,7 @@ depues de instalarlo solo tendras que ejecutar el siguiente comando
 ```bash
 hwifipt
 ```
-
+__________________________________________________________________________________________________________________________
 🔓 WiFi Hacking Script (Aircrack-ng Based)
 This project is an automated WiFi auditing script designed to simplify tasks such as:
 
