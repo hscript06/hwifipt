@@ -1,3 +1,4 @@
+ __________________________________________________________________________________________________________________________________________________________________________________________________________________
 🔓 WiFi Hacking Script (Aircrack-ng Based)
 Este proyecto es un script automatizado de auditoría WiFi, diseñado para facilitar tareas como:
 
