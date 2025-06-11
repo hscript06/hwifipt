@@ -26,7 +26,7 @@ ________________________________________________________________________________
 🧪 Instalación
 Copie y pegue estos comandos para instalar este repositorio.
 ```bash
-git clone https://github.com/hscript06/hwifipt.git
+sudo git clone https://github.com/hscript06/hwifipt.git
 cd hwifipt
 pip install .
 ```
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 🧪 Installation
 Copy and paste these commands to install this repository.
 ```bash
-git clone https://github.com/hscript06/hwifipt.git
+sudo git clone https://github.com/hscript06/hwifipt.git
 cd hwifipt
 pip install .
 ```
